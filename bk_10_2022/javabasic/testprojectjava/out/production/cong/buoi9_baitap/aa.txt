@@ -1,0 +1,12 @@
+override the hien tinh da hinh
+
+tạo 1 class Class1 có chứa 1 phương thức tính (a+b)
+tạo 1 class Class2 override phương thức tính (a-b)
+tạo 1 class Class3 override phương thức tính (a*b)
+tạo 1 class Class4 override phương thức tính (a/b)
+tạo 1 class ClassMain gọi phương thức tính
+để thực hiện các phép +,-,*,/ 2 số bất kì
+
+----------------
+tao phuong thuc tinh n! bang de quy (in class1)
+tao phuong thuc doi tu he 10 sang he 2

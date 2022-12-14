@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hello/Hello.iml" filepath="$PROJECT_DIR$/Hello/Hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello1/Hello1.iml" filepath="$PROJECT_DIR$/Hello1/Hello1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/btSachGiaoKhoa/btSachGiaoKhoa.iml" filepath="$PROJECT_DIR$/btSachGiaoKhoa/btSachGiaoKhoa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cong/cong.iml" filepath="$PROJECT_DIR$/cong/cong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello/hello.iml" filepath="$PROJECT_DIR$/hello/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hocjava/hocjava.iml" filepath="$PROJECT_DIR$/hocjava/hocjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testprojectjava.iml" filepath="$PROJECT_DIR$/testprojectjava.iml" />
+    </modules>
+  </component>
+</project>

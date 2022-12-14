@@ -1,0 +1,125 @@
+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
+lộ trình 
+Git => Java => Tooling => Maven => Spring => Database => Unit Test
+https://www.itecgoi.in/uploadfolder/1610699563368_Course_Curriculum.pdf
+https://www.geeksforgeeks.org/learn-java-backend-development-live-course-by-geeksforgeeks/
+-------------Language Basics------------
+//Session1:
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-variables/
+https://giapqb.blogspot.com/p/cac-ham-tinh-toan-pho-bien-trong-java.html
+Variables
+Data types
+Type casting
+Constants	
+Operator CoreJava(46)
+ String
+_ https://viettuts.vn/java-string#goto-h2-6
+_ https://viettuts.vn/java-string/phuong-thuc-cua-lop-string-trong-java
+ //Session2
+ Array
+ https://dev.java/learn/creating-arrays-in-your-programs/
+ https://www.codecademy.com/learn/paths/learn-java/tracks/learn-java/modules/learn-java-arrays-and-arraylists/cheatsheet
+ Branching with Switch Statements
+ https://dev.java/learn/branching-with-switch-statements/
+ //Session3
+Docs: Lesson: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html
+https://www.codecademy.com/courses/learn-java/lessons/learn-java-loops/exercises/while-loops
+- Learn by videos: 
+https://www.youtube.com/watch?v=eIrMbAQSU34&ab_channel=ProgrammingwithMosh
+https://www.youtube.com/watch?v=tDfQ33fmmvs&list=PL33lvabfss1yGrOutFR03OZoqm91TSsvs&index=10&ab_channel=Kteam 
+- Practice: https://www.codecademy.com/courses/learn-java/lessons/learn-java-loops/exercises/while-loops
+https://www.w3schools.com/java/java_conditions.asp
+
+----------- CONTROL STRUCTURE ---------
+Control structure if - else
+LOOP
+for loop
+while loop.
+The do - while loop.
+for loop.
+The break and continue keywords.
+
+-------------Classes and Objects -------------
+Doc: https://dev.java/learn/classes-and-objects/
+https://howkteam.vn/course/lap-trinh-java-co-ban-den-huong-doi-tuong/lap-trinh-huong-doi-tuong-trong-java-3863
+https://www.codecademy.com/learn/paths/learn-java/tracks/learn-java/modules/learn-java-object-oriented-java-u/cheatsheet
+Lesson: Classes and Objects (The Java™ Tutorials > Learning the Java Language)
+
+
+Object và Class trong OOP 
+Learn by videos: Java - Bài 28: Lớp và các đối tượng
+https://www.youtube.com/watch?v=8vOnoUZNtCA&list=PL33lvabfss1yGrOutFR03OZoqm91TSsvs&index=16&ab_channel=Kteam
+
+------------Interfaces---------------
+Doc:  - https://docs.oracle.com/javase/tutorial/java/concepts/interface.html 
+ - https://dev.java/learn/interfaces/
+https://www.tutorialspoint.com/java/java_interfaces.htm
+Microsoft Word - CoreJava 1.doc (59)
+   + Defining an Interface	
+   + Implementing an Interface
+   + Using an Interface as a Type
+   + Evolving Interfaces
+   + Default Methods
+   + Summary of Interfaces
+
+----------------Packages----------------
++ Understanding Packages
++ Creating a Package
++ Accessing a package from another package
+---------------exceptions---------------
+Doc: https://dev.java/learn/exceptions/
+https://www.codecademy.com/courses/learn-java/lessons/java-debugging/exercises/introduction
+https://www.w3schools.com/java/java_try_catch.asp
+_https://www.tutorialspoint.com/java/java_exceptions.htm
+_https://www.javatpoint.com/exception-handling-in-java
+_https://app.pluralsight.com/library/courses/handling-exceptions-java/table-of-contents	
+_https://www.codecademy.com/courses/learn-java/lessons/java-debugging/exercises/exceptions
+
+
+ Đinh danh (identifiers)
+ Từ khóa (keywords)
+ Ký tự phân cách (separators)
+ Nguyên dạng (Literals)
+ • Java cung cấp các chỉ định truy xuất sau đây
+ Công cộng (public)
+ Bảo vệ (protected)
+ Riêng tư (private)
+• Khởi tạo hàm có hai kiểu :
+ Tường minh (Explicit)
+ Ngầm định (Implicit)
+ • Java cung cấp các bổ nghĩa (modifiers) sau đay:
+ Tĩnh (static)
+ Trừu tượng (abstract)
+ Final
+
+3.7.1 Các chỉ định truy xuất của phương thức
+	Các chỉ định truy xuất dùng để giới hạn khả năng truy nhập vào một phương thức. Java cung cấp các chỉ định truy xuất sau đây:
+	 Công cộng (Public): Phương thức có chỉ định truy xuất public có thể được nhìn thấy từ mọi gói hoặc mọi lớp.
+	 Bảo vệ (Protected): Các lớp mở rộng từ lớp hiện hành trong cùng một gói, hoặc tại các gói khác nhau có thể truy cập các phương thức sử dụng chỉ định truy xuất này.
+	 Riêng tư (Private): Phương thức riêng tư có thể được truy cập nhờ phương thức công cộng trên cùng một lớp.
+3.7.2 Các bổ nghĩa loại phương thức
+	Các bổ nghĩa loại phương thức cho phép ta thiết lập các thuộc tính của phương thức. Java cung cấp các bổ nghĩa sau:
+	 Tĩnh (static): Các trạng thái mà phương thức có thể được thay đổi mà không cần đến đối tượng. Nó chỉ được sử dụng đối với các dữ liệu và các phương thức tĩnh.
+	 Trừu tượng (abstract): Ngụ ý rằng phương thức không có một mã cụ thể (code) và nó sẽ được bổ sung ở các lớp con (subclass). Loại phương thức này được sử dụng trong các lớp kế thừa.
+	 Kết thúc (final): Phương thức không thể được thừa kế hoặc ghi đè (Overridden).
+	 Tự nhiên (native): Chỉ ra rằng phần thân của phương thức được viết trên các ngôn ngữ khác Java ví dụ C, hoặc C++.
+	 Đồng bộ (synchronized): Sử dụng với phương thức trong quá trình thực thi threads. Nó cho phép chỉ một thread được truy cập vào khối mã vào một thời điểm.
+	 Linh hoạt (volatile): Được sử dụng với các biến để thông báo rằng giá trị của biến có thể được thay đổi vài lần khi thực thi chương trình và giá trị của nó không được ghi vào thanh ghi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,6 @@
+tao 1 packe.
+ tao 1 class truu tuong A, tao 4 phuong thuc khac nhau, m1 m2,m3,m4.
+  Tao 1 class B là con của class a và triển khai các phương thức m1,m2,m3,m4.
+  tao 1 class có tên là main và gọi các phương thức m1, m2, m3,m4 chạy
+
+  phuong thuc truu tuong co tu khoa abstrac phia truoc, k co body, ket thuc bang dau ;

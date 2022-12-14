@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b535fd24-8ed1-4ebb-a2d5-b03bf47e8753" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../Java45Abtract/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java45Abtract/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java45Abtract/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java45Abtract/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java45Abtract/Java45Abtract.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java45Abtract/out/production/Java45Abtract/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java45Abtract/out/production/Java45Abtract/MammalInt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java45Abtract/out/production/Java45Abtract/NameOfInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java45Abtract/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java45Abtract/src/MammalInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java45Abtract/src/NameOfInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai45Abstract/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai45Abstract/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai45Abstract/src/HangSanXuat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai45Abstract/src/MayBay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai45Abstract/src/PhuongTienDiChuyen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hello/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hello/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hello/src/classesobjects/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hello/src/classesobjects/ClassesObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hello/src/classesobjects/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hello/src/interfaceNVKhuong/Code.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hello/src/interfaceNVKhuong/Gamer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hello/src/interfaceNVKhuong/ItStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hello/src/interfaceNVKhuong/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btSachGiaoKhoa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/btSachGiaoKhoa/ArraySort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/btSachGiaoKhoa/BaCanhCuaTamGiac.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/btSachGiaoKhoa/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/btSachGiaoKhoa/FirstClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/btSachGiaoKhoa/HuongDoiTuong2/Cricle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/btSachGiaoKhoa/HuongDoiTuong2/RectangLe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/btSachGiaoKhoa/HuongDoiTuong2/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/btSachGiaoKhoa/HuongDoiTuong2/TestShape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/btSachGiaoKhoa/InTongSoChanLonHon2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/btSachGiaoKhoa/NameOfInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/btSachGiaoKhoa/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/btSachGiaoKhoa/Point2D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/btSachGiaoKhoa/PrimeNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/btSachGiaoKhoa/loop/SwitchDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/btSachGiaoKhoa/loop/WhileDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/btSachGiaoKhoa/testInterface/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/btSachGiaoKhoa/testInterface/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/btSachGiaoKhoa/testInterface/MammalInt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/btSachGiaoKhoa/testInterface/myconstanst.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/btSachGiaoKhoa/testInterface/myinterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/btSachGiaoKhoa/testInterface1/Football.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/btSachGiaoKhoa/testInterface1/Hockey.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/btSachGiaoKhoa/testInterface1/Sports.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArraySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaCanhCuaTamGiac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionDemo/EmailAddressException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionDemo/ParseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HuongDoiTuong2/Cricle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HuongDoiTuong2/RectangLe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HuongDoiTuong2/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HuongDoiTuong2/TestShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InTongSoChanLonHon2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NameOfInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PhuongTrinhBac2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QLSV/StudentManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/SwitchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/WhileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/cho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/dongvat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/meo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testInterface/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testInterface/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testInterface/MammalInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testInterface/myconstanst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testInterface/myinterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testInterface1/Football.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testInterface1/Hockey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testInterface1/Sports.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new45Abtract/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new45Abtract/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new45Abtract/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new45Abtract/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new45Abtract/new45Abtract.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new45Abtract/src/HangSanXuat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new45Abtract/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new45Abtract/src/MayBay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new45Abtract/src/PhuongTienDiChuyen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new45Abtract/src/XeDap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new45Abtract/src/XeOTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testprojectjava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Detaileddescription.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Detaileddescription.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bc.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HObFDIbFOTiul0bb5KhHl1YfrN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b535fd24-8ed1-4ebb-a2d5-b03bf47e8753" name="Changes" comment="" />
+      <created>1668158971546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668158971546</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
